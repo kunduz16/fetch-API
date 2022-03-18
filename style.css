@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+    margin: 50px 0;
+  }
+  .card {
+    max-width: 600px;
+    align-items: center;
+    margin: 30px;
+    border-radius: 20px;
+  }
+  
+  .card-title {
+    display: block;
+    margin: 20px 0;
+    font-size: 18px;
+  }
+  .card-img {
+    max-width: 200px;
+    max-height: 400px;
+  
+    margin-bottom: 15px;
+  }
+  .price {
+    font-size: 20px;
+    font-weight: 600;
+    display: block;
+    margin: 20px 0;
+  }
+  
+  .content {
+    background-color: #cac3bd;
+    color: #5a524c;
+    border-radius: 15px;
+    padding: 20px;
+  }
