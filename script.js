@@ -1,7 +1,7 @@
 function newCard() {
     const container = document.querySelector(".container");
     const wrapper = document.querySelector(".wrapper");
-    let res = fetch("/text.json")
+    let res = fetch("text.json")
       .then((res) => {
         return res.json();
       })
